@@ -15,4 +15,4 @@ END //
 
 DELIMITER 
 
-call CheckBooking("2023-15-04", 2);
+call CheckBooking("2023-15-03", 2);
