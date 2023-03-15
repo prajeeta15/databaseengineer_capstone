@@ -22,7 +22,3 @@ END //
 DELIMITER ;
 
 call AddValidBooking('2023-02-22', 2, 1);
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
